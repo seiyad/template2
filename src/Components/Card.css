@@ -1,0 +1,10 @@
+.component1{
+    align-content: center;
+}
+.small4{
+    display: flex;
+    justify-content:space-around;
+}
+.details{
+    background-color: white;
+}
