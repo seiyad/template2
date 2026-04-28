@@ -173,8 +173,9 @@ footer{
 }
 .inputbox img{
     position: absolute;
-    margin-left: 747px;
-    height: 30px;
+    margin-left: 750px;
+    margin-top: 2px;
+    height: 25px;
 }
 .inputbox{
     display: flex;

@@ -1,8 +1,8 @@
-import React from 'react';
-import './Template.css';
-import image from '../assets/Bag.png';
-import arrow from '../assets/arrow.png';
-import Card from '../Components/Card.jsx';
+import React from 'react'
+import './Template.css'
+import image from '../assets/Bag.png'
+import arrow from '../assets/arrow.png'
+import Card from '../Components/Card.jsx'
 import chair1 from '../assets/chair1.png'
 import chair2 from '../assets/chair2.png'
 import chair3 from '../assets/chair3.png'
